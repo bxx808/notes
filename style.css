@@ -1,0 +1,35 @@
+.notes_title {
+    background-color: rgba(0, 0, 0, 0.05);
+    height: 250px;
+}
+.notes_title .title{
+    text-align: center;
+    padding-top:  70px;
+}
+.notes_title p{
+    text-align: center;
+}
+
+.card {
+    max-width: 18rem;
+}
+.add_card_btn {
+    margin-top: 30px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: center;
+}
+
+.header_content{
+    display: flex;
+    justify-content: space-between;
+    background-color: var(--bs-card-cap-bg);
+    border-bottom: var(--bs-card-border-width) solid var(--bs-card-border-color);
+}
+
+.card_header{
+    padding: 8px 16px;
+}
+
+
+
